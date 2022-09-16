@@ -1,0 +1,22 @@
+main{
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(167, 167, 235);
+}
+
+.casa{
+    border: 3px solid rgb(255, 255, 255);
+    width: 150px;
+    height: 150px;
+    font-size: 80px;
+    color: aliceblue;
+    text-align: center;
+    line-height: 150px;
+}
+.linha{
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
