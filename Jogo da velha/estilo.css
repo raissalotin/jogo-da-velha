@@ -20,3 +20,13 @@ body{
     display: flex;
     justify-content: center;
 }
+.botão{
+color: black;
+text-align: center;
+
+}
+#placar{
+background-color: rgb(167, 167, 235);    
+text-align: center;
+
+}
